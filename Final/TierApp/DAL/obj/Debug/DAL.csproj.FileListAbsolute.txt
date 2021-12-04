@@ -1,0 +1,10 @@
+G:\2021\Fall 2021\Advance .net\Lab\TierApp\DAL\bin\Debug\DAL.dll.config
+G:\2021\Fall 2021\Advance .net\Lab\TierApp\DAL\bin\Debug\DAL.dll
+G:\2021\Fall 2021\Advance .net\Lab\TierApp\DAL\bin\Debug\DAL.pdb
+G:\2021\Fall 2021\Advance .net\Lab\TierApp\DAL\bin\Debug\EntityFramework.dll
+G:\2021\Fall 2021\Advance .net\Lab\TierApp\DAL\bin\Debug\EntityFramework.xml
+G:\2021\Fall 2021\Advance .net\Lab\TierApp\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+G:\2021\Fall 2021\Advance .net\Lab\TierApp\DAL\obj\Debug\DAL.csproj.CopyComplete
+G:\2021\Fall 2021\Advance .net\Lab\TierApp\DAL\obj\Debug\DAL.dll
+G:\2021\Fall 2021\Advance .net\Lab\TierApp\DAL\obj\Debug\DAL.pdb
+G:\2021\Fall 2021\Advance .net\Lab\TierApp\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache

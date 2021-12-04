@@ -1,0 +1,14 @@
+G:\2021\Fall 2021\Advance .net\Lab\TierApp\BLL\bin\Debug\BLL.dll
+G:\2021\Fall 2021\Advance .net\Lab\TierApp\BLL\bin\Debug\BLL.pdb
+G:\2021\Fall 2021\Advance .net\Lab\TierApp\BLL\bin\Debug\AutoMapper.dll
+G:\2021\Fall 2021\Advance .net\Lab\TierApp\BLL\bin\Debug\DAL.dll
+G:\2021\Fall 2021\Advance .net\Lab\TierApp\BLL\bin\Debug\EntityFramework.dll
+G:\2021\Fall 2021\Advance .net\Lab\TierApp\BLL\bin\Debug\DAL.pdb
+G:\2021\Fall 2021\Advance .net\Lab\TierApp\BLL\bin\Debug\DAL.dll.config
+G:\2021\Fall 2021\Advance .net\Lab\TierApp\BLL\bin\Debug\AutoMapper.xml
+G:\2021\Fall 2021\Advance .net\Lab\TierApp\BLL\bin\Debug\EntityFramework.xml
+G:\2021\Fall 2021\Advance .net\Lab\TierApp\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+G:\2021\Fall 2021\Advance .net\Lab\TierApp\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+G:\2021\Fall 2021\Advance .net\Lab\TierApp\BLL\obj\Debug\BLL.csproj.CopyComplete
+G:\2021\Fall 2021\Advance .net\Lab\TierApp\BLL\obj\Debug\BLL.dll
+G:\2021\Fall 2021\Advance .net\Lab\TierApp\BLL\obj\Debug\BLL.pdb

@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "95e53f1f-3506-4b89-924f-df4eb1976678": {
+      "ProjectGuid": "95e53f1f-3506-4b89-924f-df4eb1976678",
+      "DisplayName": "LibraryManagementSystem",
+      "ColorIndex": 0
+    },
+    "04a9417d-7dc1-4a40-bbfa-0b3cf3d82cd3": {
+      "ProjectGuid": "04a9417d-7dc1-4a40-bbfa-0b3cf3d82cd3",
+      "DisplayName": "DataAccess",
+      "ColorIndex": 1
+    },
+    "96cc0ad3-dd44-48bd-95b2-bb2b533a1226": {
+      "ProjectGuid": "96cc0ad3-dd44-48bd-95b2-bb2b533a1226",
+      "DisplayName": "BusinessLogic",
+      "ColorIndex": 2
+    },
+    "04af96c4-df69-4a26-9997-2e6cb72249cc": {
+      "ProjectGuid": "04af96c4-df69-4a26-9997-2e6cb72249cc",
+      "DisplayName": "Provider",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
